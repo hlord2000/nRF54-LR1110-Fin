@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "nRF54-LR1110-Fin-RF")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/nRF54-LR1110-Fin-RF.kicad_sym")(options "")(descr ""))
+)
